@@ -8,3 +8,57 @@
 start training
 Epoch:[1/50], Train ACC:12.66667,Val Acc:12.13000
 Epoch:[2/50], Train ACC:16.00000,Val Acc:15.30000
+Epoch:[3/50], Train ACC:22.66667,Val Acc:17.37000
+Epoch:[4/50], Train ACC:24.66667,Val Acc:18.67000
+Epoch:[5/50], Train ACC:22.66667,Val Acc:16.65000
+Epoch:[6/50], Train ACC:24.66667,Val Acc:17.03000
+Epoch:[7/50], Train ACC:30.00000,Val Acc:20.43000
+Epoch:[8/50], Train ACC:42.00000,Val Acc:29.27000
+Epoch:[9/50], Train ACC:52.66667,Val Acc:35.57000
+Epoch:[10/50], Train ACC:54.66667,Val Acc:38.83000
+Epoch:[11/50], Train ACC:54.66667,Val Acc:40.81000
+Epoch:[12/50], Train ACC:56.00000,Val Acc:42.38000
+Epoch:[13/50], Train ACC:62.00000,Val Acc:49.01000
+Epoch:[14/50], Train ACC:68.66667,Val Acc:54.81000
+Epoch:[15/50], Train ACC:72.00000,Val Acc:57.51000
+Epoch:[16/50], Train ACC:76.66667,Val Acc:61.76000
+Epoch:[16/50], Train ACC:76.6667, Validation ACC Score:61.7600 
+Epoch:[17/50], Train ACC:78.66667,Val Acc:63.81000
+Epoch:[17/50], Train ACC:78.6667, Validation ACC Score:63.8100 
+Epoch:[18/50], Train ACC:80.66667,Val Acc:64.96000
+Epoch:[18/50], Train ACC:80.6667, Validation ACC Score:64.9600 
+Epoch:[19/50], Train ACC:80.00000,Val Acc:66.75000
+Epoch:[19/50], Train ACC:80.0000, Validation ACC Score:66.7500 
+Epoch:[20/50], Train ACC:78.66667,Val Acc:67.32000
+Epoch:[20/50], Train ACC:78.6667, Validation ACC Score:67.3200 
+Epoch:[21/50], Train ACC:80.00000,Val Acc:67.59000
+Epoch:[21/50], Train ACC:80.0000, Validation ACC Score:67.5900 
+Epoch:[22/50], Train ACC:80.66667,Val Acc:68.10000
+Epoch:[22/50], Train ACC:80.6667, Validation ACC Score:68.1000 
+Epoch:[23/50], Train ACC:81.33333,Val Acc:68.68000
+Epoch:[23/50], Train ACC:81.3333, Validation ACC Score:68.6800 
+Epoch:[24/50], Train ACC:83.33333,Val Acc:69.38000
+Epoch:[24/50], Train ACC:83.3333, Validation ACC Score:69.3800 
+Epoch:[25/50], Train ACC:83.33333,Val Acc:70.03000
+Epoch:[25/50], Train ACC:83.3333, Validation ACC Score:70.0300 
+Epoch:[26/50], Train ACC:86.00000,Val Acc:70.49000
+Epoch:[26/50], Train ACC:86.0000, Validation ACC Score:70.4900 
+Epoch:[27/50], Train ACC:86.00000,Val Acc:70.94000
+Epoch:[27/50], Train ACC:86.0000, Validation ACC Score:70.9400 
+Epoch:[28/50], Train ACC:86.66667,Val Acc:71.06000
+Epoch:[28/50], Train ACC:86.6667, Validation ACC Score:71.0600 
+Epoch:[29/50], Train ACC:88.00000,Val Acc:71.17000
+Epoch:[29/50], Train ACC:88.0000, Validation ACC Score:71.1700 
+Epoch:[30/50], Train ACC:88.66667,Val Acc:71.49000
+Epoch:[30/50], Train ACC:88.6667, Validation ACC Score:71.4900 
+Epoch:[31/50], Train ACC:88.66667,Val Acc:71.78000
+Epoch:[31/50], Train ACC:88.6667, Validation ACC Score:71.7800 
+Epoch:[32/50], Train ACC:88.00000,Val Acc:71.83000
+Epoch:[32/50], Train ACC:88.0000, Validation ACC Score:71.8300 
+Epoch:[33/50], Train ACC:88.00000,Val Acc:72.12000
+Epoch:[33/50], Train ACC:88.0000, Validation ACC Score:72.1200 
+Epoch:[34/50], Train ACC:89.33333,Val Acc:72.11000
+Epoch:[35/50], Train ACC:88.66667,Val Acc:72.14000
+Epoch:[35/50], Train ACC:88.6667, Validation ACC Score:72.1400 
+Epoch:[36/50], Train ACC:89.33333,Val Acc:72.12000
+Epoch:[37/50], Train ACC:89.33333,Val Acc:72.08000
