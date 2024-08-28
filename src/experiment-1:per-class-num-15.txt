@@ -1,0 +1,10 @@
+==========> start experiment 15: 2024-08-28 17:17:44 <==========
+
+==========> train_mnist
+==> model creating....
+==> mdoel has been created
+==> Total parameters (reference): 0.01M
+==> Making checkpoint dir: ./save/mnist/new/15/2024-08-28T17:17:50.563998
+start training
+Epoch:[1/50], Train ACC:12.66667,Val Acc:12.13000
+Epoch:[2/50], Train ACC:16.00000,Val Acc:15.30000

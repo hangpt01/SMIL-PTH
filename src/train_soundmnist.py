@@ -45,7 +45,9 @@ def parse_args():
 
     # model related parm
     parser.add_argument('-b', '--batch_size', default = 32, type = int, help='batch size' )
+    # to modify
     parser.add_argument('-e', '--epochs', default = 60, type = int, help='num of epoch' )
+    # parser.add_argument('-e', '--epochs', default = 5, type = int, help='num of epoch' )
     parser.add_argument('--lr', default = 1e-3, type = float, help='initial learning rate' )
     parser.add_argument('--per_class_num', default = 21 , type = int, help='per_class_num' )
     parser.add_argument('--vis_device', default='0', type=str, help='set visiable device')

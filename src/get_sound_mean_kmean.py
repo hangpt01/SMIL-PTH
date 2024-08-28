@@ -89,7 +89,7 @@ def main(args):
     new_mean = kmeans.cluster_centers_
 
     save_path = path.join(ckpt_dir_path, 'sound_mean_' + str(args.per_class_num*10)+'.npy')
-    print(new_mean.shape)
+    # print(new_mean.shape)
     np.save(save_path, new_mean)
     print('done save!!!')
 

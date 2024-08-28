@@ -67,7 +67,7 @@ class SoundLenet5(nn.Module):
 
             x = torch.cat([img_feature, sound_feature], dim=1)
             f = x
-            print(f.shape, x.shape)
+            # print(f.shape, x.shape)
 
             x = self.relu(self.fc1(x))
             f1 = x
